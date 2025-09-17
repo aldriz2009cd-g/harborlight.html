@@ -29,7 +29,7 @@ Logo"></div>
 
 
  <div class="banner">
- <img src="https://edube.org/uploads/media/default/0001/04/decorative-banner.jpg"
+ <img src="https://edube.org/uploads/media/default/0001/04/decorative-banner.jpg",
 alt="",aria-hidden="true">
  </div>
  <div>
