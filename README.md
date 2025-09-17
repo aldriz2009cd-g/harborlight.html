@@ -21,10 +21,10 @@ Logo"></div>
  <nav role="navigation">
 <ul><a>
  <li><a href="#home">Home</a></li> 
-  <li><a href="#about"|> About</a></li>
- <li><a href="#services"|>Services</a></li>
- <li><a href="#events"| >Events</a></li>
-  <li><a href="#contact"|> Contact</a></li>
+  <li><a href="#about"> About</a></li>
+ <li><a href="#services">Services</a></li>
+ <li><a href="#events"> Events</a></li>
+  <li><a href="#contact">Contact</a></li>
 </ul>
 </nav>
  <div class="banner">
@@ -40,12 +40,11 @@ alt="", aria-hidden="true">
 of our residents.</p></section>
  <p><img src="https://edube.org/uploads/media/default/0001/04/community-center.jpg" alt="Harbor Light Community Center People"
 hspace="10" vspace="10"></p>
- </div>
- <section id="services"
+ 
+ <section id="services">
  <h2>Our Services</h2>
  <p>From educational workshops and sports leagues to wellness programs and art classes,
 our services are tailored to meet the diverse needs of our community members.</p> </section>
- </div>
  <div>
    <section id="events">
  <h2>Join Our Events</h2>
@@ -56,7 +55,6 @@ miss our annual summer festival for fun, food, and festivities for all ages.</p>
  <p><strong>Summer Festival:</strong>
    <br>
 <time><section itemscope="http://schema.org/Event", itemtype="http://schema.org/Event"</section> Starts: July 20, 2050</time></p>
- </div>
  <section id="contact">
  <footer>
  Contact Us
